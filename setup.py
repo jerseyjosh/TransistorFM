@@ -10,7 +10,7 @@ setup(
     author_email = "josh@hakuna.co.uk",
     description = "A Python client for the Transistor.fm API",
     license = "MIT",
-    url = "http://packages.python.org/an_example_pypi_project",
-    packages=['an_example_pypi_project', 'tests'],
+    requires=['requests'],
+    long_description_content_type="text/markdown",
     long_description=long_description
 )
