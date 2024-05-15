@@ -5,7 +5,7 @@ with open("README.md", "r") as f:
 
 setup(
     name = "transistorfm",
-    version = "0.1.0",
+    version = "0.2.0",
     author = "Josh Griffiths",
     author_email = "josh@hakuna.co.uk",
     description = "A Python client for the Transistor.fm API",
