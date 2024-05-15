@@ -9,7 +9,7 @@ A Python client for interacting with the Transistor.fm API.
 
 ## Installation
 
-Install [Package Name] using pip:
+Install using pip:
 
 ```bash
-pip install [package_name]
+pip install transistorfm

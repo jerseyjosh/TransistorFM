@@ -1,6 +1,6 @@
 Metadata-Version: 2.1
 Name: transistorfm
-Version: 0.1.0
+Version: 1.0.0
 Summary: A Python client for the Transistor.fm API
 Author: Josh Griffiths
 Author-email: josh@hakuna.co.uk
