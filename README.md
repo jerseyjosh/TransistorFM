@@ -1,13 +1,11 @@
-# [Package Name]
+# TransistorFM
 
-[Package Name] is a Python client for interacting with the Transistor.fm API. It simplifies the process of accessing and managing podcast data on Transistor.fm through Python.
+A Python client for interacting with the Transistor.fm API.
 
 ## Features
 
-- Easy to use Python functions for all Transistor.fm API endpoints
-- Support for synchronous and asynchronous requests
-- Comprehensive error handling
-- Examples included for quick start
+- Client with basic API endpoints.
+- API Object typing.
 
 ## Installation
 
